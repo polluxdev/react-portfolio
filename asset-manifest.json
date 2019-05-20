@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7e5c0eca.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.2c97a8c5.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.2c97a8c5.chunk.js.map",
-    "runtime~main.js": "/react-portfolio/static/js/runtime~main.f974a8eb.js",
-    "runtime~main.js.map": "/react-portfolio/static/js/runtime~main.f974a8eb.js.map",
-    "static/js/2.67d6449f.chunk.js": "/react-portfolio/static/js/2.67d6449f.chunk.js",
-    "static/js/2.67d6449f.chunk.js.map": "/react-portfolio/static/js/2.67d6449f.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.2ef6a6ae0ad9cfcf41d128d27478dfcb.js": "/react-portfolio/precache-manifest.2ef6a6ae0ad9cfcf41d128d27478dfcb.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.7e5c0eca.chunk.css.map": "/react-portfolio/static/css/main.7e5c0eca.chunk.css.map",
-    "static/media/Home.css": "/react-portfolio/static/media/background-1.e7d1a1fb.jpg",
-    "static/media/profile-img.jpg": "/react-portfolio/static/media/profile-img.615c6e10.jpg"
+    "main.css": "/home/static/css/main.6f19a7e4.chunk.css",
+    "main.js": "/home/static/js/main.6d3dac39.chunk.js",
+    "main.js.map": "/home/static/js/main.6d3dac39.chunk.js.map",
+    "runtime~main.js": "/home/static/js/runtime~main.0990ee84.js",
+    "runtime~main.js.map": "/home/static/js/runtime~main.0990ee84.js.map",
+    "static/js/2.67d6449f.chunk.js": "/home/static/js/2.67d6449f.chunk.js",
+    "static/js/2.67d6449f.chunk.js.map": "/home/static/js/2.67d6449f.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.a19d3ef7381663f1d7f6b149910e4132.js": "/home/precache-manifest.a19d3ef7381663f1d7f6b149910e4132.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.6f19a7e4.chunk.css.map": "/home/static/css/main.6f19a7e4.chunk.css.map",
+    "static/media/Home.css": "/home/static/media/background-1.e7d1a1fb.jpg",
+    "static/media/profile-img.jpg": "/home/static/media/profile-img.615c6e10.jpg"
   }
 }
